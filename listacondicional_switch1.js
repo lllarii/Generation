@@ -1,7 +1,7 @@
 const leia = require('readline-sync')
 let item, quant;
 let valor;
-console.log("** Exercício 1 - Laço Condicional Switch **");
+console.log("** Exercício 5 - Laço Condicional Switch **");
 item = leia.questionInt("\n Digite o codigo do item comprado: ");
 if ((item > 6) || (item < 1))
 {

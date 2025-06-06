@@ -2,7 +2,7 @@ const leia = require('readline-sync');
 let numeros = [2, 5, 1, 3, 4, 9, 7, 8, 10, 6];
 let busca
 let continua
-console.log("** Exercício 4 - Vetores **");
+console.log("** Exercício 7 - Vetores **");
 
 /** 
 Dado um vetor contendo 10 números inteiros não ordenados e não repetidos,

@@ -2,7 +2,7 @@ const leia = require('readline-sync')
 let nome;
 let salario, novoSalario;
 let cargo;
-console.log("** Exercício 2 - Laço Condicional Switch **");
+console.log("** Exercício 6 - Laço Condicional Switch **");
 nome = leia.question("\nPor favor, digite o nome do colaborador: ")
 cargo = leia.questionInt("\nAgora digite o codigo do cargo do colaborador: ");
 if ((cargo > 6) || (cargo < 1))

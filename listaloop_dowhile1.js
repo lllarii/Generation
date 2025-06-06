@@ -1,7 +1,7 @@
 const leia = require('readline-sync')
 let numero, soma;
 
-console.log("** Exercício 3 - Laço de Repetição DO... WHILE **");
+console.log("** Exercício 5 - Laço de Repetição DO... WHILE **");
 console.log("\nVAMOS SOMAR!")
 
 soma = 0
